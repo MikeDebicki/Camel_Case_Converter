@@ -1,12 +1,8 @@
-/**
- * Coded by Michal Debicki
- * 100979867
- */
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class comp3007_f18_100979867_a1_1 {
+public class camelCaseMaker {
 
     public static char convertToLower(char k){
 
